@@ -1,2 +1,4 @@
 paddlepaddle>=1.8.4
 paddlehub>=1.8.0
+gradio>=5.31.0 # not directly required, pinned by Snyk to avoid a vulnerability
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
